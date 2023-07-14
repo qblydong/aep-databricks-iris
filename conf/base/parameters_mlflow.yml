@@ -1,0 +1,7 @@
+mlflow_enabled: True
+mlflow_sso_enabled: False
+mlflow_instance: databricks
+mlflow_tracking_uri: databricks
+mlflow_registry_uri: databricks
+mlflow_experiment: /Users/lingyi_dong@mckinsey.com/aep_databricks_training
+mlflow_log_params: []
